@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">advancedcountry</string>
+    <string name="error_getting_data_from_api">error getting data from api</string>
+</resources>
